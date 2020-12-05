@@ -6,6 +6,8 @@ tars-utils 是一个前端常用工具方法库，整理了在前端项目里高
 
 欢迎直接引用本库，也欢迎查看并选用本项目里个别方法的实现。
 
+https://github.com/Jamie-Yang/tars-utils
+
 ## 文档
 
 TODO
